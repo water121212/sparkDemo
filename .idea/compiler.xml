@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hellworld" />
+        <module name="practice" />
+        <module name="spark_cdn" />
+        <module name="stream_kafka" />
+        <module name="streamWorldCount" />
+        <module name="worldCount" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hellworld" target="1.8" />
+      <module name="practice" target="1.8" />
+      <module name="spark_cdn" target="1.8" />
+      <module name="sparkCore" target="1.8" />
+      <module name="sparkDemo" target="1.8" />
+      <module name="sparkSql" target="1.8" />
+      <module name="sparkStreaming" target="1.8" />
+      <module name="stream_kafka" target="1.8" />
+      <module name="streamWorldCount" target="1.8" />
+      <module name="worldCount" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

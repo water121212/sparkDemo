@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/hellworld/hellworld.iml" filepath="$PROJECT_DIR$/sparkSql/hellworld/hellworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/practice/practice.iml" filepath="$PROJECT_DIR$/sparkSql/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkCore.iml" filepath="$PROJECT_DIR$/sparkCore/sparkCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkDemo.iml" filepath="$PROJECT_DIR$/sparkDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/sparkSql.iml" filepath="$PROJECT_DIR$/sparkSql/sparkSql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/sparkStreaming.iml" filepath="$PROJECT_DIR$/sparkStreaming/sparkStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/spark_cdn/spark_cdn.iml" filepath="$PROJECT_DIR$/sparkCore/spark_cdn/spark_cdn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/streamWorldCount/streamWorldCount.iml" filepath="$PROJECT_DIR$/sparkStreaming/streamWorldCount/streamWorldCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/stream_kafka/stream_kafka.iml" filepath="$PROJECT_DIR$/sparkStreaming/stream_kafka/stream_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/worldCount/worldCount.iml" filepath="$PROJECT_DIR$/sparkCore/worldCount/worldCount.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+2018-06-22 14:38:40,060   WARN --- [JobGenerator]  kafka.utils.VerifiableProperties(line:83) : Property key.deserializer is not valid
+2018-06-22 14:38:40,070   WARN --- [JobGenerator]  kafka.utils.VerifiableProperties(line:83) : Property value.deserializer is not valid
+2018-06-22 14:45:30,025   WARN --- [JobGenerator]  kafka.utils.VerifiableProperties(line:83) : Property key.deserializer is not valid
+2018-06-22 14:45:30,027   WARN --- [JobGenerator]  kafka.utils.VerifiableProperties(line:83) : Property value.deserializer is not valid
+2018-06-22 14:46:30,082   WARN --- [Executor task launch worker for task 25]  kafka.utils.VerifiableProperties(line:83) : Property key.deserializer is not valid
+2018-06-22 14:46:30,083   WARN --- [Executor task launch worker for task 25]  kafka.utils.VerifiableProperties(line:83) : Property value.deserializer is not valid
+2018-06-22 14:49:20,029  ERROR --- [JobGenerator]  org.apache.spark.streaming.kafka.DirectKafkaInputDStream(line:125) : ArrayBuffer(java.net.SocketTimeoutException, org.apache.spark.SparkException: Couldn't find leader offsets for Set([source101,1]))
