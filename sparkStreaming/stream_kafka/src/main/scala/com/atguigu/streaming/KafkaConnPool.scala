@@ -43,7 +43,7 @@ class KafkaProxyFactory(brokers:String) extends BasePooledObjectFactory[KafkaPro
 
 
 object KafkaConnPool {
-  // 代表连接池aaa
+  // 代表连接池bbb
   private var kafkaProxyPool:GenericObjectPool[KafkaProxy] = null
 
   def apply(brokers:String): GenericObjectPool[KafkaProxy] ={
